@@ -3,3 +3,4 @@
 User-agent: *
 
 Host: neighborliness.ru
+Sitemap: https://neighborliness.ru/sitemap.xml
